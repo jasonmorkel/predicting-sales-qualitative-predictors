@@ -1,5 +1,5 @@
 # predicting-sales-qualitative-predictors
- Analyizing how qualitative predictors have on sales.
+ Analyizing the effect that qualitative predictors have on sales.
 
 
 Simple exercise using a R library to predict sales of baby car seats in 400 locations based on a qualitative predictor.
